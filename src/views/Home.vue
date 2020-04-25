@@ -44,7 +44,7 @@ export default {
     this.isLoading = true;
     try {
       const job = await axios.get(
-        "http://newsapi.org/v2/top-headlines?" +
+        "https://newsapi.org/v2/top-headlines?" +
           "country=us&" +
           "apiKey=822c5e287d7e41139c654a0e462ba9e5"
       );
