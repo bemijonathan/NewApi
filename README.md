@@ -1,24 +1,19 @@
 # newsapp
-
+Simple vue Js application consuming new news api
 ## Project setup
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
-```
-
-### Compiles and minifies for production
-```
 yarn build
-```
-
-### Lints and fixes files
-```
 yarn lint
 ```
 
+## Built With
+
+* [Buefy](https://buefy.org/) - The web css framework used
+* [Vue](https://maven.apache.org/) - The Javascript Framework
+* [News Api](https://newsapi.org/) - News Feed
+
+
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Get Your Api Key
