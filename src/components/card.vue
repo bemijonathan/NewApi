@@ -18,9 +18,9 @@
 
           <div class="column">
             <p class="text-is-left">{{news.title}}</p>
-            <p details> <a>{{news.source.name}}</a>
+            <p details> source : <a>{{news.source.name}}</a>
             <br />
-            <time datetime="2016-1-1">{{news.publishedAt}}</time>
+            Date : <time datetime="2016-1-1">{{ new Date(news.publishedAt).toDateString() }}</time>
             </p>
             
             <div class="media-content">
