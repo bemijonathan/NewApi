@@ -1,4 +1,4 @@
-# [newsapp](newsorgapi.netlify.app)
+# [newsapp](https://newsorgapi.netlify.app)
 Simple vue Js application consuming new news api
 ## Project setup
 ```
